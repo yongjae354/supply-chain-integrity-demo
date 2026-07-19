@@ -1,0 +1,11 @@
+# gittuf signing keys
+keys/
+
+# locally built pinned gittuf binary
+.gittuf-bin
+
+# build output
+dist/
+
+# attestations
+*.bundle
