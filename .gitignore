@@ -1,8 +1,8 @@
 # gittuf signing keys
 keys/
 
-# locally built pinned gittuf binary
-.gittuf-bin
+# locally built pinned gittuf tools
+.tools/
 
 # build output
 dist/
